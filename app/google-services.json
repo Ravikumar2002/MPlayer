@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308900675130",
+    "firebase_url": "https://mplayer-b0c1c-default-rtdb.firebaseio.com",
+    "project_id": "mplayer-b0c1c",
+    "storage_bucket": "mplayer-b0c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308900675130:android:494cfb1485869e1f47bf03",
+        "android_client_info": {
+          "package_name": "com.example.mplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308900675130-5qu4sarrk81rrqbiu861cp39j66jqbch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--2nNCCewEpOFrFVnEm_ppU44BdBQ8i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308900675130-5qu4sarrk81rrqbiu861cp39j66jqbch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
